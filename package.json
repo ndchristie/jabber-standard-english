@@ -1,0 +1,47 @@
+{
+  "name": "jabber-standard-english",
+  "version": "0.0.0",
+  "description": "Standard Engish module for the Jabber Generator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "NODE_ENV=test nyc mocha --recursive -r ts-node/register test/*.spec.ts test/**/*.spec.ts",
+    "lint": "tslint src/**/*.ts --project tsconfig.json",
+    "build": "npm run lint && rm -rf dist/* && tsc --project tsconfig.json",
+    "release": "npm run build && standard-version"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndchristie/jabber-standard-english.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chai": "^4.1.1",
+    "@types/mocha": "^2.2.46",
+    "@types/node": "^9.3.0",
+    "chai": "^4.1.2",
+    "cz-conventional-changelog": "^2.1.0",
+    "jabber-generator": "file:../jabber-generator",
+    "mocha": "^5.0.0",
+    "nyc": "^11.4.1",
+    "standard-version": "^4.3.0",
+    "ts-node": "^4.1.0",
+    "tslint": "^5.9.1",
+    "tslint-config-airbnb": "^5.4.2",
+    "typescript": "^2.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ndchristie/jabber-standard-english/issues"
+  },
+  "homepage": "https://github.com/ndchristie/jabber-standard-english#readme",
+  "directories": {
+    "test": "test"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

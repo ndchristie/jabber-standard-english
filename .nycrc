@@ -1,0 +1,23 @@
+{
+  "include": [
+    "src/*.ts",
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "**/*.d.ts",
+    "src/index.ts"
+  ],
+  "extension": [
+    ".ts"
+  ],
+  "require": [
+    "ts-node/register"
+  ],
+  "reporter": [
+    "html",
+    "lcov",
+    "text-summary"
+  ],
+  "report-dir": "test/coverage",
+  "all": true
+}
