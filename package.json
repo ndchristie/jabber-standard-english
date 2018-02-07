@@ -1,6 +1,6 @@
 {
   "name": "jabber-standard-english",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Standard Engish module for the Jabber Generator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
