@@ -1,0 +1,1 @@
+{"version":3,"file":"transform-english-triple-vowels.js","sourceRoot":"","sources":["../../src/transforms/transform-english-triple-vowels.ts"],"names":[],"mappings":";;AAAA,mBAAe,UAAC,aAAqB,IAAa,OAAA,aAAa;KAC5D,OAAO,CAAC,mBAAmB,EAAE,MAAM,CAAC;KACpC,OAAO,CAAC,cAAc,EAAE,IAAI,CAAC,EAFkB,CAElB,EAAC"}

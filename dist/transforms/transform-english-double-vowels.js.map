@@ -1,0 +1,1 @@
+{"version":3,"file":"transform-english-double-vowels.js","sourceRoot":"","sources":["../../src/transforms/transform-english-double-vowels.ts"],"names":[],"mappings":";;AAAA,mBAAe,UAAC,aAAqB,IAAa,OAAA,aAAa;KAC5D,OAAO,CAAC,SAAS,EAAE,IAAI,CAAC;KACxB,OAAO,CAAC,SAAS,EAAE,IAAI,CAAC;KACxB,OAAO,CAAC,iBAAiB,EAAE,MAAM,CAAC,EAHa,CAGb,EAAC"}

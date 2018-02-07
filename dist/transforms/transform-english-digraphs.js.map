@@ -1,0 +1,1 @@
+{"version":3,"file":"transform-english-digraphs.js","sourceRoot":"","sources":["../../src/transforms/transform-english-digraphs.ts"],"names":[],"mappings":";;AAAA,mBAAe,UAAC,aAAqB,IAAa,OAAA,aAAa;KAC5D,OAAO,CAAC,YAAY,EAAE,IAAI,CAAC;KAC3B,OAAO,CAAC,kBAAkB,EAAE,MAAM,CAAC;KACnC,OAAO,CAAC,sBAAsB,EAAE,QAAQ,CAAC;KACzC,OAAO,CAAC,0BAA0B,EAAE,QAAQ,CAAC,EAJE,CAIF,EAAC"}

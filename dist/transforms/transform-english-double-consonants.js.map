@@ -1,0 +1,1 @@
+{"version":3,"file":"transform-english-double-consonants.js","sourceRoot":"","sources":["../../src/transforms/transform-english-double-consonants.ts"],"names":[],"mappings":";;AAAA,mBAAe,UAAC,aAAqB,IAAa,OAAA,aAAa;KAC5D,OAAO,CAAC,mBAAmB,EAAE,IAAI,CAAC;KAClC,OAAO,CAAC,2BAA2B,EAAE,MAAM,CAAC;KAC5C,OAAO,CAAC,2BAA2B,EAAE,MAAM,CAAC,EAHG,CAGH,EAAC"}
